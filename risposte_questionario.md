@@ -1,4 +1,4 @@
-<h2>Rispetto ad un* student* con famiglia di origine italiana, pensi di aver riscontrato maggiori difficoltà nel tuo percorso universitario? </h2>
+<h2 style="font-family:'Times New Roman', Times, serif;">Rispetto ad un* student* con famiglia di origine italiana, pensi di aver riscontrato maggiori difficoltà nel tuo percorso universitario? </h2>
 <br><br>
 1) Si perché ho molte responsabilità oltre il lavoro e lo studio, dovendomi occupare della burocrazia per tutta la mia famiglia.
 <br><br>
